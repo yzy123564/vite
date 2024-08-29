@@ -4,6 +4,7 @@ import { sidebar } from './sidebarCondfig';
 export default defineConfig({
   title: "文档",
   description: "A VitePress Site",
+  base: '/vite/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav,
