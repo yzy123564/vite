@@ -1,0 +1,1 @@
+即简单(流)文本定向消息协议。用于连接到企业消息代理，它被设计用于处理常用消息传递模式的最小功能子集，STOMP可以用于任何可靠的双向流网络协议，如TCP和WebSocket，虽然STOMP是一个面向文本的协议，但消息payload可以是文本或二进制。就像HTTP在TCP套接字之上添加了请求-响应模型层一样，STOMP 在 WebSocket 之上提供了一个基于帧的线路格式（frame-based wire format）层，用来定义消息的语义。STOMP是一种为MOM(Message Oriented Middleware，面向消息的中间件)设计的简单文本协议，它提供一个可互操作的连接格式，允许客户端与任意STOMP消息代理（Broker）进行交互，用于client之间进行异步消息传输的简单文本协议。
