@@ -14,7 +14,7 @@ hero:
     text: Stay foolish, Stay hungry.
     tagline: /斜杠青年/人间清醒/工具控/
     image:
-        src: ./image/background.png
+        src: /background.png
         alt: 背景图
     actions:
     - theme: brand

@@ -28,9 +28,12 @@ export const nav: DefaultTheme.NavItem[] = [
 
     //===================JavaScript======================
     {
-        text: 'JavaScript',
+        text: 'Mysql',
         items: [
-
+            {
+                text: 'Mysql 8.0数据导入到5.7版本中',
+                link: '/mysql/mysql8to5.md'
+            }
         ]
     },
     //===================JavaScript======================
