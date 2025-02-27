@@ -7,4 +7,6 @@ layouts+page包：系统页面布局相关组件，比如登陆进去之后页�
 ![img_8.png](img_8.png)
 页面标签是在TabLayout.vue页面中实现的
 ![img_9.png](img_9.png)
-content部分是通过[<router-view>](https://www.jb51.net/javascript/32260060f.htm)动态渲染的
+
+content部分是通过[router-view](https://www.jb51.net/javascript/32260060f.htm)动态渲染的
+
