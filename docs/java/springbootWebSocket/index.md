@@ -165,6 +165,8 @@ eg. sendText()，sendText() 前后发送2次消息
 
 sockjs封装了websocket，stomp是消息队列模式。
 
+
+
 ##### 配置类
 ```java
 /**

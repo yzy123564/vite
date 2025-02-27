@@ -14,9 +14,13 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '前端开发',
         items: [
             {
-                text: '数据结构与算法',
-                link: '/column/Algorithm/'
-            }
+                text: 'jeecg-boot 前端Vue项目的入口流程',
+                link: '/jeecg/ruk.md'
+            },
+            {
+                text: 'jeecg-boot前端页面整体布局',
+                link: '/jeecg/layout.md'
+            },
         ]
     },
 
