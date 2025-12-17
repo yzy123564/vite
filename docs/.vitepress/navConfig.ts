@@ -21,6 +21,10 @@ export const nav: DefaultTheme.NavItem[] = [
                 text: 'jeecg-boot前端页面整体布局',
                 link: '/jeecg/layout.md'
             },
+            {
+                text: '动态的控制字段组件是否禁用',
+                link: '/jeecg/is_disable.md'
+            },
         ]
     },
 
